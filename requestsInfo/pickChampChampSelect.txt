@@ -1,0 +1,22 @@
+PATCH - /lol-champ-select/v1/session/actions/{id}
+
+id:
+0 - show champ
+1 - ban champ
+2 - pick champ
+
+{
+  "actorCellId": 0,
+  "championId": 81,
+  "completed": true,
+  "id": 0,
+  "isAllyAction": true,
+  "type": "string"
+}
+
+
+Ez - 81
+Varus - 110
+Mf - 21
+Tristana - 18
+Caitlyn - 51

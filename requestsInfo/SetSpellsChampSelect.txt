@@ -1,0 +1,10 @@
+PATCH - /lol-champ-select/v1/session/my-selection
+
+data:
+
+{
+  "selectedSkinId": 0,
+  "spell1Id": 7,
+  "spell2Id": 4,
+  "wardSkinId": 0
+}

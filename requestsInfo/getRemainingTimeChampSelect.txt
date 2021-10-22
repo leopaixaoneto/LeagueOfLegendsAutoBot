@@ -1,0 +1,12 @@
+GET - /lol-champ-select/v1/session/timer
+
+
+return:
+
+"phase": 
+
+- BAN_PICK
+
+- INALIZATION
+
+- GAME_STARTING

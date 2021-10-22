@@ -1,0 +1,124 @@
+{
+  "associatedChampions": [],
+  "associatedMaps": [],
+  "blocks": [
+    {
+      "hideIfSummonerSpell": "",
+      "items": [
+        {
+          "count": 1,
+          "id": "1036"
+        },
+        {
+          "count": 1,
+          "id": "3133"
+        },
+        {
+          "count": 1,
+          "id": "1038"
+        },
+        {
+          "count": 1,
+          "id": "1018"
+        },
+        {
+          "count": 1,
+          "id": "3508"
+        },
+        {
+          "count": 1,
+          "id": "1001"
+        },
+        {
+          "count": 1,
+          "id": "1042"
+        },
+        {
+          "count": 1,
+          "id": "3006"
+        },
+        {
+          "count": 1,
+          "id": "3134"
+        },
+        {
+          "count": 1,
+          "id": "3147"
+        }
+      ],
+      "showIfSummonerSpell": "",
+      "type": "AD1"
+    },
+    {
+      "hideIfSummonerSpell": "",
+      "items": [
+        {
+          "count": 1,
+          "id": "1053"
+        },
+        {
+          "count": 1,
+          "id": "3072"
+        },
+        {
+          "count": 1,
+          "id": "1037"
+        },
+        {
+          "count": 1,
+          "id": "3031"
+        },
+        {
+          "count": 1,
+          "id": "3086"
+        },
+        {
+          "count": 1,
+          "id": "2015"
+        },
+        {
+          "count": 1,
+          "id": "3087"
+        },
+        {
+          "count": 1,
+          "id": "3095"
+        },
+        {
+          "count": 1,
+          "id": "3144"
+        },
+        {
+          "count": 1,
+          "id": "1043"
+        },
+        {
+          "count": 1,
+          "id": "3124"
+        },
+        {
+          "count": 1,
+          "id": "3046"
+        },
+        {
+          "count": 1,
+          "id": "3153"
+        },
+        {
+          "count": 1,
+          "id": "2003"
+        }
+      ],
+      "showIfSummonerSpell": "",
+      "type": "AD2"
+    }
+  ],
+  "map": "",
+  "mode": "any",
+  "preferredItemSlots": [],
+  "sortrank": 0,
+  "startedFrom": "blank",
+  "title": "Items",
+  "type": "custom",
+  "uid": "2c7d42d0-cb45-11ea-925a-1fddc1659a58"
+}

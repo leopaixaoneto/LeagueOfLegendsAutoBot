@@ -1,0 +1,596 @@
+{
+  "champions": [
+    {
+      "id": "266",
+      "text": "Aatrox"
+    },
+    {
+      "id": "103",
+      "text": "Ahri"
+    },
+    {
+      "id": "84",
+      "text": "Akali"
+    },
+    {
+      "id": "12",
+      "text": "Alistar"
+    },
+    {
+      "id": "32",
+      "text": "Amumu"
+    },
+    {
+      "id": "34",
+      "text": "Anivia"
+    },
+    {
+      "id": "1",
+      "text": "Annie"
+    },
+    {
+      "id": "523",
+      "text": "Aphelios"
+    },
+    {
+      "id": "22",
+      "text": "Ashe"
+    },
+    {
+      "id": "136",
+      "text": "Aurelion Sol"
+    },
+    {
+      "id": "268",
+      "text": "Azir"
+    },
+    {
+      "id": "432",
+      "text": "Bard"
+    },
+    {
+      "id": "53",
+      "text": "Blitzcrank"
+    },
+    {
+      "id": "63",
+      "text": "Brand"
+    },
+    {
+      "id": "201",
+      "text": "Braum"
+    },
+    {
+      "id": "51",
+      "text": "Caitlyn"
+    },
+    {
+      "id": "164",
+      "text": "Camille"
+    },
+    {
+      "id": "69",
+      "text": "Cassiopeia"
+    },
+    {
+      "id": "31",
+      "text": "Cho'Gath"
+    },
+    {
+      "id": "42",
+      "text": "Corki"
+    },
+    {
+      "id": "122",
+      "text": "Darius"
+    },
+    {
+      "id": "131",
+      "text": "Diana"
+    },
+    {
+      "id": "36",
+      "text": "Dr. Mundo"
+    },
+    {
+      "id": "119",
+      "text": "Draven"
+    },
+    {
+      "id": "245",
+      "text": "Ekko"
+    },
+    {
+      "id": "60",
+      "text": "Elise"
+    },
+    {
+      "id": "28",
+      "text": "Evelynn"
+    },
+    {
+      "id": "81",
+      "text": "Ezreal"
+    },
+    {
+      "id": "9",
+      "text": "Fiddlesticks"
+    },
+    {
+      "id": "114",
+      "text": "Fiora"
+    },
+    {
+      "id": "105",
+      "text": "Fizz"
+    },
+    {
+      "id": "3",
+      "text": "Galio"
+    },
+    {
+      "id": "41",
+      "text": "Gangplank"
+    },
+    {
+      "id": "86",
+      "text": "Garen"
+    },
+    {
+      "id": "150",
+      "text": "Gnar"
+    },
+    {
+      "id": "79",
+      "text": "Gragas"
+    },
+    {
+      "id": "104",
+      "text": "Graves"
+    },
+    {
+      "id": "120",
+      "text": "Hecarim"
+    },
+    {
+      "id": "74",
+      "text": "Heimerdinger"
+    },
+    {
+      "id": "420",
+      "text": "Illaoi"
+    },
+    {
+      "id": "39",
+      "text": "Irelia"
+    },
+    {
+      "id": "427",
+      "text": "Ivern"
+    },
+    {
+      "id": "40",
+      "text": "Janna"
+    },
+    {
+      "id": "59",
+      "text": "Jarvan IV"
+    },
+    {
+      "id": "24",
+      "text": "Jax"
+    },
+    {
+      "id": "126",
+      "text": "Jayce"
+    },
+    {
+      "id": "202",
+      "text": "Jhin"
+    },
+    {
+      "id": "222",
+      "text": "Jinx"
+    },
+    {
+      "id": "145",
+      "text": "Kai'Sa"
+    },
+    {
+      "id": "429",
+      "text": "Kalista"
+    },
+    {
+      "id": "43",
+      "text": "Karma"
+    },
+    {
+      "id": "30",
+      "text": "Karthus"
+    },
+    {
+      "id": "38",
+      "text": "Kassadin"
+    },
+    {
+      "id": "55",
+      "text": "Katarina"
+    },
+    {
+      "id": "10",
+      "text": "Kayle"
+    },
+    {
+      "id": "141",
+      "text": "Kayn"
+    },
+    {
+      "id": "85",
+      "text": "Kennen"
+    },
+    {
+      "id": "121",
+      "text": "Kha'Zix"
+    },
+    {
+      "id": "203",
+      "text": "Kindred"
+    },
+    {
+      "id": "240",
+      "text": "Kled"
+    },
+    {
+      "id": "96",
+      "text": "Kog'Maw"
+    },
+    {
+      "id": "7",
+      "text": "LeBlanc"
+    },
+    {
+      "id": "64",
+      "text": "Lee Sin"
+    },
+    {
+      "id": "89",
+      "text": "Leona"
+    },
+    {
+      "id": "127",
+      "text": "Lissandra"
+    },
+    {
+      "id": "236",
+      "text": "Lucian"
+    },
+    {
+      "id": "117",
+      "text": "Lulu"
+    },
+    {
+      "id": "99",
+      "text": "Lux"
+    },
+    {
+      "id": "54",
+      "text": "Malphite"
+    },
+    {
+      "id": "90",
+      "text": "Malzahar"
+    },
+    {
+      "id": "57",
+      "text": "Maokai"
+    },
+    {
+      "id": "11",
+      "text": "Master Yi"
+    },
+    {
+      "id": "21",
+      "text": "Miss Fortune"
+    },
+    {
+      "id": "82",
+      "text": "Mordekaiser"
+    },
+    {
+      "id": "25",
+      "text": "Morgana"
+    },
+    {
+      "id": "267",
+      "text": "Nami"
+    },
+    {
+      "id": "75",
+      "text": "Nasus"
+    },
+    {
+      "id": "111",
+      "text": "Nautilus"
+    },
+    {
+      "id": "518",
+      "text": "Neeko"
+    },
+    {
+      "id": "76",
+      "text": "Nidalee"
+    },
+    {
+      "id": "56",
+      "text": "Nocturne"
+    },
+    {
+      "id": "20",
+      "text": "Nunu"
+    },
+    {
+      "id": "2",
+      "text": "Olaf"
+    },
+    {
+      "id": "61",
+      "text": "Orianna"
+    },
+    {
+      "id": "516",
+      "text": "Ornn"
+    },
+    {
+      "id": "80",
+      "text": "Pantheon"
+    },
+    {
+      "id": "78",
+      "text": "Poppy"
+    },
+    {
+      "id": "555",
+      "text": "Pyke"
+    },
+    {
+      "id": "246",
+      "text": "Qiyana"
+    },
+    {
+      "id": "133",
+      "text": "Quinn"
+    },
+    {
+      "id": "497",
+      "text": "Rakan"
+    },
+    {
+      "id": "33",
+      "text": "Rammus"
+    },
+    {
+      "id": "421",
+      "text": "Rek'Sai"
+    },
+    {
+      "id": "58",
+      "text": "Renekton"
+    },
+    {
+      "id": "107",
+      "text": "Rengar"
+    },
+    {
+      "id": "92",
+      "text": "Riven"
+    },
+    {
+      "id": "68",
+      "text": "Rumble"
+    },
+    {
+      "id": "13",
+      "text": "Ryze"
+    },
+    {
+      "id": "113",
+      "text": "Sejuani"
+    },
+    {
+      "id": "235",
+      "text": "Senna"
+    },
+    {
+      "id": "875",
+      "text": "Sett"
+    },
+    {
+      "id": "35",
+      "text": "Shaco"
+    },
+    {
+      "id": "98",
+      "text": "Shen"
+    },
+    {
+      "id": "102",
+      "text": "Shyvana"
+    },
+    {
+      "id": "27",
+      "text": "Singed"
+    },
+    {
+      "id": "14",
+      "text": "Sion"
+    },
+    {
+      "id": "15",
+      "text": "Sivir"
+    },
+    {
+      "id": "72",
+      "text": "Skarner"
+    },
+    {
+      "id": "37",
+      "text": "Sona"
+    },
+    {
+      "id": "16",
+      "text": "Soraka"
+    },
+    {
+      "id": "50",
+      "text": "Swain"
+    },
+    {
+      "id": "517",
+      "text": "Sylas"
+    },
+    {
+      "id": "134",
+      "text": "Syndra"
+    },
+    {
+      "id": "223",
+      "text": "Tahm Kench"
+    },
+    {
+      "id": "163",
+      "text": "Taliyah"
+    },
+    {
+      "id": "91",
+      "text": "Talon"
+    },
+    {
+      "id": "44",
+      "text": "Taric"
+    },
+    {
+      "id": "17",
+      "text": "Teemo"
+    },
+    {
+      "id": "412",
+      "text": "Thresh"
+    },
+    {
+      "id": "18",
+      "text": "Tristana"
+    },
+    {
+      "id": "48",
+      "text": "Trundle"
+    },
+    {
+      "id": "23",
+      "text": "Tryndamere"
+    },
+    {
+      "id": "4",
+      "text": "Twisted Fate"
+    },
+    {
+      "id": "29",
+      "text": "Twitch"
+    },
+    {
+      "id": "77",
+      "text": "Udyr"
+    },
+    {
+      "id": "6",
+      "text": "Urgot"
+    },
+    {
+      "id": "110",
+      "text": "Varus"
+    },
+    {
+      "id": "67",
+      "text": "Vayne"
+    },
+    {
+      "id": "45",
+      "text": "Veigar"
+    },
+    {
+      "id": "161",
+      "text": "Vel'Koz"
+    },
+    {
+      "id": "254",
+      "text": "Vi"
+    },
+    {
+      "id": "112",
+      "text": "Viktor"
+    },
+    {
+      "id": "8",
+      "text": "Vladimir"
+    },
+    {
+      "id": "106",
+      "text": "Volibear"
+    },
+    {
+      "id": "19",
+      "text": "Warwick"
+    },
+    {
+      "id": "62",
+      "text": "Wukong"
+    },
+    {
+      "id": "498",
+      "text": "Xayah"
+    },
+    {
+      "id": "101",
+      "text": "Xerath"
+    },
+    {
+      "id": "5",
+      "text": "Xin Zhao"
+    },
+    {
+      "id": "157",
+      "text": "Yasuo"
+    },
+    {
+      "id": "83",
+      "text": "Yorick"
+    },
+    {
+      "id": "350",
+      "text": "Yuumi"
+    },
+    {
+      "id": "154",
+      "text": "Zac"
+    },
+    {
+      "id": "238",
+      "text": "Zed"
+    },
+    {
+      "id": "115",
+      "text": "Ziggs"
+    },
+    {
+      "id": "26",
+      "text": "Zilean"
+    },
+    {
+      "id": "142",
+      "text": "Zoe"
+    },
+    {
+      "id": "143",
+      "text": "Zyra"
+    }
+  ]
+}

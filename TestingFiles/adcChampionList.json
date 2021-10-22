@@ -1,0 +1,22 @@
+{
+  "champions": [
+    { "id": "14", "text": "Sion" },
+    { "id": "18", "text": "Tristana" },
+    { "id": "21", "text": "Miss Fortune" },
+    { "id": "22", "text": "Ashe" },
+    { "id": "29", "text": "Twitch" },
+    { "id": "42", "text": "Corki" },
+    { "id": "67", "text": "Vayne" },
+    { "id": "81", "text": "Ezreal" },
+    { "id": "110", "text": "Varus" },
+    { "id": "119", "text": "Draven" },
+    { "id": "145", "text": "Kai'Sa" },
+    { "id": "202", "text": "Jhin" },
+    { "id": "222", "text": "Jinx" },
+    { "id": "236", "text": "Lucian" },
+    { "id": "238", "text": "Zed" },
+    { "id": "429", "text": "Kalista" },
+    { "id": "498", "text": "Xayah" },
+    { "id": "523", "text": "Aphelios" }
+  ]
+}

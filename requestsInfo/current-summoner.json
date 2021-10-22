@@ -1,0 +1,19 @@
+{
+  "accountId": 1438442,
+  "displayName": "Deamon",
+  "internalName": "deamon",
+  "percentCompleteForNextLevel": 95,
+  "profileIconId": 75,
+  "puuid": "9fde81ad-8c80-589d-a0bb-a499e12f99a0",
+  "rerollPoints": {
+    "currentPoints": 170,
+    "maxRolls": 2,
+    "numberOfRolls": 0,
+    "pointsCostToRoll": 250,
+    "pointsToReroll": 80
+  },
+  "summonerId": 1479484,
+  "summonerLevel": 154,
+  "xpSinceLastLevel": 2571,
+  "xpUntilNextLevel": 2688
+}

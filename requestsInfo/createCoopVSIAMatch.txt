@@ -1,0 +1,5 @@
+POST '/lol-lobby/v2/lobby'
+
+
+data:
+{'queueId': 830}
